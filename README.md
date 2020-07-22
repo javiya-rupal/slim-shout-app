@@ -13,9 +13,9 @@ Basic API integration of gettings quotes shouted by Famous persons.
 * Write to rupal.javiya@gmail.com
 
 ## Screenshots
-![Run API from browser](https://github.com/javiya-rupal/slim-shout-app/master/public/docs/browser-request.png)
-![Run API from browser with invalid argument](https://github.com/javiya-rupal/slim-shout-app/master/public/docs/request-with-invalid-argument.png)
-![Run API from browser with requesting 0 quote](https://github.com/javiya-rupal/slim-shout-app/master/public/docs/request-with-0.png)
-![Run API from commandline](https://github.com/javiya-rupal/slim-shout-app/master/public/docs/command-line-request.png)
-![Unit test sample](https://github.com/javiya-rupal/slim-shout-app/master/public/docs/unit-testing.png)
-![Request cache](https://github.com/javiya-rupal/slim-shout-app/master/public/docs/request-cache)
+![Run API from browser](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/browser-request.png)
+![Run API from browser with invalid argument](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/request-with-invalid-argument.png)
+![Run API from browser with requesting 0 quote](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/request-with-0.png)
+![Run API from commandline](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/command-line-request.png)
+![Unit test sample](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/unit-testing.png)
+![Request cache](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/request-cache)
