@@ -18,4 +18,4 @@ Basic API integration of gettings quotes shouted by Famous persons.
 ![Run API from browser with requesting 0 quote](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/request-with-0.png)
 ![Run API from commandline](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/command-line-request.png)
 ![Unit test sample](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/unit-testing.png)
-![Request cache](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/request-cache)
+![Request cache](https://github.com/javiya-rupal/slim-shout-app/blob/master/public/docs/request-cache.png)
